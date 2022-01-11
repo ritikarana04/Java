@@ -1,3 +1,2 @@
 # Java
-
-Practice questions with solution for JAVA 
+A repository to keep record of JAVA assignments.
